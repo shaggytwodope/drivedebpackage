@@ -1,5 +1,3 @@
-dpkg-buildpackage -us -uc
-
 NOTES for build process:
 
 run go get in toplevel dir for 
