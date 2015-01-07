@@ -1,0 +1,13 @@
+Source: drive
+Section: devel
+Priority: extra
+Maintainer: John Jenkins <twodopeshaggy@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), golang-go
+Standards-Version: 3.9.1
+Homepage: http://launchpad.net/cobzr
+
+Package: drive
+Architecture: amd64 i386 armel
+Depends: ${misc:Depends}
+Description: Google drive tool written in Go language
+ Command line tool for managing data on google drive.
