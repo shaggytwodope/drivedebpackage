@@ -1,0 +1,29 @@
+dpkg-buildpackage -us -uc
+
+NOTES for build process:
+
+run go get in toplevel dir for 
+export GOPATH=/home/linuxlite/drivedebpackage/
+ 	go get github.com/odeke-em/drive
+ 	go get github.com/odeke-em/drive/config
+ 	go get github.com/rakyll/command
+
+copy pkg and src over
+
+in main dir run:
+
+(to test if builds)
+dpkg-buildpackage -us -uc
+
+(source pkg for ubuntu)
+debuild  -S  -sa -k7EC3233B
+
+(repleace 7EC3233B with your own gpg key to sign properly)
+
+
+upload to ppa!
+
+dput ppa:twodopeshaggy/drive <source.changes>
+
+(example)
+dput ppa:twodopeshaggy/drive drive_0.0.4.b-0_source.changes 

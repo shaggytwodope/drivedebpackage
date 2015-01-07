@@ -1,3 +1,9 @@
+drive (0.0.4.b-0) trusty; urgency=medium
+
+  * Updated to relase on github.
+
+ -- linuxlite <linuxlite@linuxlite-VirtualBox>  Wed, 07 Jan 2015 01:01:27 -0800
+
 drive (0.0.4.a-0) trusty; urgency=low
 
   * Drive init build.
