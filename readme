@@ -8,7 +8,12 @@ export GOPATH=/home/linuxlite/drivedebpackage/
 
 copy pkg and src over
 
+
+
+
 in main dir run:
+dch -i
+
 
 (to test if builds)
 dpkg-buildpackage -us -uc

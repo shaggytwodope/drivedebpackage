@@ -1,5 +1,5 @@
 Source: drive
-Section:  network
+Section:  net
 Priority: extra
 Maintainer: John Jenkins <twodopeshaggy@gmail.com>
 Build-Depends: debhelper (>= 7.0.50~), golang-go
