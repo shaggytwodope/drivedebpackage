@@ -1,3 +1,9 @@
+drive (0.0.4.c-0) trusty; urgency=medium
+
+  * Update to newest release, 0.0.4.c
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Thu, 08 Jan 2015 09:35:55 -0800
+
 drive (0.0.4.b-0) trusty; urgency=medium
 
   * Updated to relase on github.
