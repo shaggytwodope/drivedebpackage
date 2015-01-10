@@ -1,3 +1,9 @@
+drive (0.0.4.d-1) trusty; urgency=medium
+
+  * version output fix
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sat, 10 Jan 2015 03:11:31 -0800
+
 drive (0.0.4.d-0) trusty; urgency=medium
 
   * 0.0.4.d release snapshot, go Odeke!
