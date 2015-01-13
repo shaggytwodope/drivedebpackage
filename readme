@@ -4,7 +4,7 @@ NOTES for build process:
 
 run go get in toplevel dir for 
 export GOPATH=/home/linuxlite/drivedebpackage/
- 	go get github.com/odeke-em/drive
+ 	go get github.com/odeke-em/drive/cmd/drive
  	go get github.com/odeke-em/drive/config
  	go get github.com/rakyll/command
 
