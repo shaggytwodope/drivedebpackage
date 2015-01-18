@@ -1,3 +1,9 @@
+drive (0.0.6-0) trusty; urgency=medium
+
+  * 0.0.6 release, lots of fixes and features.
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sun, 18 Jan 2015 06:01:55 -0800
+
 drive (0.0.5-0) trusty; urgency=medium
 
   * 0.0.5 release, new features and bug fixes.
