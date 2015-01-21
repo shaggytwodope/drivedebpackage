@@ -1,3 +1,9 @@
+drive (0.0.7-1) trusty; urgency=medium
+
+  * Arm build Available. 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 21 Jan 2015 15:17:54 -0800
+
 drive (0.0.7-0) trusty; urgency=medium
 
   * Some performence fixes.
