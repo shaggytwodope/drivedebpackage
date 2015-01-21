@@ -7,7 +7,7 @@ Standards-Version: 3.9.1
 Homepage: http://launchpad.net/cobzr
 
 Package: drive
-Architecture: amd64 i386 armel
+Architecture: amd64 i386 armel armhf
 Depends: ${misc:Depends}
 Description: Google Drive tool written in Go language
  Command line tool for managing data on Google drive.
