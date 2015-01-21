@@ -11,11 +11,11 @@ data/oauth/jwt/example/example.client_secrets.json.i
 data/LICENSE.i
 data/appengine/serviceaccount/serviceaccount.go.i
 data/oauth/oauth_test.go.i
-data/PATENTS.i
+data/.hgignore.i
 data/oauth/jwt/example/example.pem.i
 data/oauth/Makefile.i
 data/oauth/example/Makefile.i
-data/.hgignore.i
+data/PATENTS.i
 data/.hgtags.i
 data/README.i
 data/oauth/jwt/jwt_test.go.i
