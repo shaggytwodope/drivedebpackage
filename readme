@@ -1,4 +1,6 @@
 sudo add-apt-repository ppa:twodopeshaggy/drive
+https://github.com/odeke-em/drive/archive/v0.0.7.tar.gz
+
 
 NOTES for build process:
 
