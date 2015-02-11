@@ -1,3 +1,15 @@
+drive (0.0.9-0) trusty; urgency=medium
+
+  * 0.0.9 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Tue, 10 Feb 2015 19:20:01 -0800
+
+drive (0.0.8-0) trusty; urgency=medium
+
+  * 0.0.8 release 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 04 Feb 2015 10:03:21 -0800
+
 drive (0.0.7-7) trusty; urgency=medium
 
   * i386 package fix 
