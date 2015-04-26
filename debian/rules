@@ -22,7 +22,7 @@ binary-arch: clean
 	mkdir -p $(PKGDIR)/usr/bin
 	cp $(GOPATH)/bin/* $(PKGDIR)/usr/bin/
 	mkdir -p $(PKGDIR)/usr/share/icons
-	dh_install /src/github.com/odeke-em/drive/icons/*png /usr/share/icons/
+	dh_install /src/github.com/odeke-em/drive/icons/*png /usr/share/icons/hicolor/128x128/mimetypes/
 	dh_strip
 	dh_compress
 	dh_fixperms
