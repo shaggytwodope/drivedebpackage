@@ -21,6 +21,8 @@ binary-arch: clean
 	cd $(GOPATH)/src/github.com/odeke-em/drive/cmd/drive/ && find * -name '*.go' -exec dirname {} \; | xargs -n1 go install
 	mkdir -p $(PKGDIR)/usr/bin
 	cp $(GOPATH)/bin/* $(PKGDIR)/usr/bin/
+	mkdir -p $(PKGDIR)/usr/share/icons
+	dh_install /src/github.com/odeke-em/drive/icons/*png /usr/share/icons/
 	dh_strip
 	dh_compress
 	dh_fixperms
