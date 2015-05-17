@@ -2,7 +2,7 @@ Source: drive
 Section:  net
 Priority: extra
 Maintainer: John Jenkins <twodopeshaggy@gmail.com>
-Build-Depends: debhelper (>= 7.0.50~), golang-go
+Build-Depends: debhelper (>= 7.0.50~), golang-go, git
 Standards-Version: 3.9.1
 Homepage: http://launchpad.net/cobzr
 
