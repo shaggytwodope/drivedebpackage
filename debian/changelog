@@ -1,3 +1,27 @@
+drive (0.2.5-1) trusty; urgency=medium
+
+  * 0.2.5 still sick and bleh 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 29 Jun 2015 02:33:59 -0700
+
+drive (0.2.4-1) trusty; urgency=medium
+
+  * ppa dep test
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sat, 27 Jun 2015 00:13:53 -0700
+
+drive (0.2.4-0) trusty; urgency=medium
+
+  *  0.2.4 branch update
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Tue, 23 Jun 2015 01:53:26 -0700
+
+drive (0.2.3-2) trusty; urgency=medium
+
+  * odeke forgot version number tsktsk
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Mon, 01 Jun 2015 16:00:23 -0700
+
 drive (0.2.3-1) trusty; urgency=medium
 
   * boom
