@@ -30,7 +30,7 @@ debuild  -S  -sa -k7EC3233B
 
 upload to ppa!
 
-dput ppa:twodopeshaggy/drive <source.changes>
+dput drive <source.changes>
 
 (example)
-dput ppa:twodopeshaggy/drive drive_0.0.4.b-0_source.changes 
+dput drive drive_0.0.4.b-0_source.changes 

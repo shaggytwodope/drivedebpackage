@@ -1,3 +1,16 @@
+drive (0.3.1-1) trusty; urgency=medium
+
+  * fix path 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sat, 10 Oct 2015 08:40:00 -0700
+
+drive (0.3.1-0) trusty; urgency=medium
+
+  * 0.3.1 release happy birthday Burcu aka @rakyll and welcome to the world
+    little Emmanuel. 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sat, 10 Oct 2015 08:29:38 -0700
+
 drive (0.3.0-0) trusty; urgency=medium
 
   * 0.3.0 prerelease test.
