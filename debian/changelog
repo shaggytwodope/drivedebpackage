@@ -1,3 +1,9 @@
+drive (0.3.1-2) trusty; urgency=medium
+
+  * relative path fix 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sat, 10 Oct 2015 20:54:08 -0700
+
 drive (0.3.1-1) trusty; urgency=medium
 
   * fix path 
