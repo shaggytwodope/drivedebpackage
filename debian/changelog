@@ -1,3 +1,9 @@
+drive (0.3.2-1) wily; urgency=medium
+
+  * 0.3.2 fix release for commit dc7934a 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sat, 31 Oct 2015 04:14:50 -0700
+
 drive (0.3.2-0) wily; urgency=medium
 
   * 0.3.2 release
