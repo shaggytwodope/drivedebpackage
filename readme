@@ -33,4 +33,4 @@ upload to ppa!
 dput drive <source.changes>
 
 (example)
-dput drive drive_0.0.4.b-0_source.changes 
+dput ppa:twodopeshaggy/drive drive_0.3.5-0_source.changes
