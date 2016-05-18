@@ -1,3 +1,15 @@
+drive (0.3.6-2) wily; urgency=medium
+
+  * fix build
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 18 May 2016 05:20:05 -0400
+
+drive (0.3.6-1) wily; urgency=medium
+
+  * rebuild
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 18 May 2016 05:03:10 -0400
+
 drive (0.3.6-0) wily; urgency=medium
 
   * 0.3.6 release
