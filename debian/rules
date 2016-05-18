@@ -20,6 +20,7 @@ binary-arch: clean
 	dh_installdirs
 	cd $(GOPATH)/src/github.com/odeke-em/drive/cmd/drive/ && find * -name '*.go' -exec dirname {} \; | xargs -n1 go install
 	cd $(GOPATH)/src/github.com/odeke-em/drive/drive-server/ && find * -name '*.go' -exec dirname {} \; | xargs -n1 go install
+	cd $(GOPATH)/src/github.com/odeke-em/drive/drive-gen/ && find * -name '*.go' -exec dirname {} \; | xargs -n1 go install
 	mkdir -p $(PKGDIR)/usr/bin
 	cp $(GOPATH)/bin/* $(PKGDIR)/usr/bin/
 	mkdir -p $(PKGDIR)/usr/share/icons
