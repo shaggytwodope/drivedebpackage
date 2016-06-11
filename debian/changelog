@@ -1,3 +1,9 @@
+drive (0.3.7-0) wily; urgency=medium
+
+  * 0.3.7 release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sat, 11 Jun 2016 05:30:05 -0400
+
 drive (0.3.6-3) wily; urgency=medium
 
   * version fixed
