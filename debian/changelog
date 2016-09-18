@@ -1,3 +1,9 @@
+drive (0.3.8-1) wily; urgency=medium
+
+  * 0.3.8 fix
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sun, 18 Sep 2016 02:36:57 -0400
+
 drive (0.3.8-0) wily; urgency=medium
 
   * 0.3.8 release
