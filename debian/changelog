@@ -1,3 +1,9 @@
+drive (0.3.8-2) trusty; urgency=medium
+
+  * rebuild for arm
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sun, 30 Oct 2016 06:27:48 -0700
+
 drive (0.3.8-1) wily; urgency=medium
 
   * 0.3.8 fix
