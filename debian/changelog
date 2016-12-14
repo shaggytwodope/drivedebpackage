@@ -1,3 +1,15 @@
+drive (0.3.8-4) wily; urgency=medium
+
+  * third rebuild
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sun, 30 Oct 2016 06:48:00 -0700
+
+drive (0.3.8-3) trusty; urgency=medium
+
+  * rebuild for arm again
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sun, 30 Oct 2016 06:43:27 -0700
+
 drive (0.3.8-2) trusty; urgency=medium
 
   * rebuild for arm

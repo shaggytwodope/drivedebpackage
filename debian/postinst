@@ -1,5 +1,0 @@
-#!/bin/sh -e
- 
-#gtk-update-icon-cache -f  -t  -q /usr/share/icons/hicolor
- 
-exit 0
