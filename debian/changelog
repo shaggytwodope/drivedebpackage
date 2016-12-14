@@ -1,3 +1,9 @@
+drive (0.3.8.1-0) yakkety; urgency=medium
+
+  * 0.3.8.1 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Wed, 14 Dec 2016 03:35:01 -0800
+
 drive (0.3.8-4) wily; urgency=medium
 
   * third rebuild
