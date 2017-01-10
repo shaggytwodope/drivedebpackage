@@ -1,3 +1,9 @@
+drive (0.3.9-1) yakkety; urgency=medium
+
+  * 0.3.9 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Tue, 10 Jan 2017 13:02:38 -0800
+
 drive (0.3.8.1-0) yakkety; urgency=medium
 
   * 0.3.8.1 
